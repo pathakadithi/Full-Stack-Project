@@ -1,5 +1,5 @@
 🏡 House Price Prediction using Linear Regression
-📌 Project Overview :
+Project Overview :
 
 * This project applies Linear Regression to predict house prices based on various features (such as living area, number of rooms, location, etc.). The dataset was preprocessed, split into training and testing sets, and evaluated using multiple regression metrics.
 ⚙️ Steps Followed
